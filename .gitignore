@@ -1,0 +1,9 @@
+.vscode/
+*.o
+*.bin
+*.elf
+*.img
+*.iso
+*.swp
+*~
+.DS_Store
